@@ -110,12 +110,16 @@
 ────────────────────────────────────────
 ## 6. HAFTA – (5. haftanın tekrarı ve pekiştirmesi)
 ────────────────────────────────────────
+
 • 5. hafta konuları tamamen tekrar edildi.
+
 • Ekstra örnekler ve yanlış bilinenler düzeltildi.
+
 • Sınavda çıkma ihtimali yüksek noktalar vurgulandı:
    – 7 uymayan ek
    – Ünlü daralması sadece -yor’da
    – Ünsüz yumuşamasında “renk–rengi” gibi k → g olur
+   
 
 ────────────────────────────────────────
 ## SINAV İÇİN SON TEKRAR CHECKLIST ✔
