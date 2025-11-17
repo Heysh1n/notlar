@@ -87,19 +87,27 @@
 
 • Küçük Ünlü Uyumu → düz–yuvarlak
    – Düz → düz
+   
    – Yuvarlak → a/e veya u/ü
    
 • Ünlü olayları:
    – Düşmesi: burun–burnu, akıl–aklı
+   
    – Türemesi: biricik, azıcık
+   
    – Daralması: başla–başlıyor, söyle–söylüyor
+   
    – Değişmesi: bana, sana
    
 • Ünsüz olayları:
    – Benzeşme: çorapçık, sokaktı
+   
    – Yumuşama: kitap–kitabı
+   
    – Türeme: affetmek, hissetmek
+   
    – Düşme: küçücük, ufacık
+   
    – Ulama: senin araban
 
    
@@ -117,7 +125,9 @@
 
 • Sınavda çıkma ihtimali yüksek noktalar vurgulandı:
    – 7 uymayan ek
+   
    – Ünlü daralması sadece -yor’da
+   
    – Ünsüz yumuşamasında “renk–rengi” gibi k → g olur
    
 
