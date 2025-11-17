@@ -63,7 +63,9 @@
 
 ### 🔵 BÜYÜK ÜNLÜ UYUMU (Kalın–İnce)
 • Kalın: a ı o u İnce: e i ö ü
+
 • İlk hece kalın → kalanlar kalın, ince → kalanlar ince.
+
 • **Uyuma uymayan 7 ek** (değişmez):
   yor ki ken leyin -imtrak -gil -daş
 
