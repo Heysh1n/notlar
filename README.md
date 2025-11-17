@@ -67,6 +67,7 @@
 • Ünlüler (8): A E I İ O Ö U Ü
 
 • Ünlü sınıflandırması:
+
    - Art–Ön: A I O U | E İ Ö Ü
    - Geniş–Dar: A E O Ö | I İ U Ü
    - Düz–Yuvarlak: A E I İ | O Ö U Ü
@@ -86,28 +87,23 @@
   – Uymayan 7 ek: yor, ki, ken, leyin, -imtrak, -gil, -daş
 
 • Küçük Ünlü Uyumu → düz–yuvarlak
+
    – Düz → düz
-   
    – Yuvarlak → a/e veya u/ü
    
 • Ünlü olayları:
+
    – Düşmesi: burun–burnu, akıl–aklı
-   
    – Türemesi: biricik, azıcık
-   
    – Daralması: başla–başlıyor, söyle–söylüyor
-   
    – Değişmesi: bana, sana
    
 • Ünsüz olayları:
+
    – Benzeşme: çorapçık, sokaktı
-   
    – Yumuşama: kitap–kitabı
-   
    – Türeme: affetmek, hissetmek
-   
    – Düşme: küçücük, ufacık
-   
    – Ulama: senin araban
 
    
@@ -124,10 +120,9 @@
 • Ekstra örnekler ve yanlış bilinenler düzeltildi.
 
 • Sınavda çıkma ihtimali yüksek noktalar vurgulandı:
+   
    – 7 uymayan ek
-   
    – Ünlü daralması sadece -yor’da
-   
    – Ünsüz yumuşamasında “renk–rengi” gibi k → g olur
    
 
