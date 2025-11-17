@@ -1,6 +1,6 @@
 # 📘 TÜRKÇE DERSİ – GENEL VİZE NOTLARI (1–5. HAFTA ÖZETİ)
 ────────────────────────────────────────
-## 1-2. HAFTAlar – DİL VE KÜLTÜR TEMELLERİ
+## 1. HAFTA – DİL VE KÜLTÜR TEMELLERİ
 ────────────────────────────────────────
 
 ### 1.1 Dil Nedir?
@@ -55,6 +55,43 @@
 • **Durumsal dil**: Yaş, cinsiyet, ortam, resmiyet → dil değişir.
   - Arkadaş: “Kanka naber?”
   - Öğretmen: “Hocam nasılsınız?”
+
+────────────────────────────────────────
+## 2. HAFTA – TÜRKÇENİN TARİHİ
+────────────────────────────────────────
+
+### 2.1 Türkçenin Yaşı
+• **Konuşma dili** yaşı kesin bilinmez (kaydedilmez).
+• **Yazı dili** araştırmaları → **yaklaşık 8500 yıl**.
+• Dünyanın **en eski dillerinden** biri.
+
+### 2.2 Türkçenin Yazılı Tarihi
+• İzler **MÖ 6500’lere** uzanır.
+• **Sümer tabletlerinde** Türkçe kelimeler bulunduğu iddia edilir.
+
+### 2.3 Türk Dilinin Tarihî Dönemleri
+Araştırmacılar **7 döneme** ayırır:
+1. **Altay Devri**
+2. **En Eski Türkçe Devri**
+3. **İlk Türkçe Devri**
+4. **Eski Türkçe Devri**
+5. **Orta Türkçe Devri**
+6. **Yeni Türkçe Devri**
+7. **Çağdaş / Modern Türkçe Devri**
+
+### 2.4 Türkçenin İlk Yazılı Belgeleri
+| Belge              | Tarih & Özellikler                                                                 |
+|--------------------|------------------------------------------------------------------------------------|
+| **Çoğur Yazıtı**   | **İlk yazılı belge** (MS 682–692) → İltiriş Kağan gibi isimler geçer.              |
+| **Orhun Kitabeleri**| Çoğur’dan ~40 yıl sonra → **En ünlü**, ama ilk değil.                              |
+| **Kurganlar**      | Yazısız dönem mezarları → Türk tarihine ait bilgiler taşır (detay eksik).          |
+
+### 2.5 Öne Çıkan Bilgiler (Kısaca)
+• Türkçe → **8500 yıllık kadim dil**.
+• **İlk belge:** Çoğur Yazıtı (MS 682–692).
+• Orhun → Ünlü ama **sonraki**.
+• Gelişim → **7 tarihî dev
+ir**.
 
 ────────────────────────────────────────
 ## 3. HAFTA – TARİHÎ TÜRK YAZI DİLLERİ & ALFABELER
