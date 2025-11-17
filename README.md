@@ -58,43 +58,36 @@
    - Süreksiz/Sürekli
 
 ────────────────────────────────────────
-## 5. + 6. HAFTA – SES OLAYLARI & ÜNLÜ–ÜNSÜZ UYUMLARI
+## 5. HAFTA – SES OLAYLARI VE ÜNLÜ UYUMLARI
 ────────────────────────────────────────
+• Büyük Ünlü Uyumu → kalın–ince (a ı o u | e i ö ü)
+  – Uymayan 7 ek: yor, ki, ken, leyin, -imtrak, -gil, -daş
+• Küçük Ünlü Uyumu → düz–yuvarlak
+   – Düz → düz
+   – Yuvarlak → a/e veya u/ü
+• Ünlü olayları:
+   – Düşmesi: burun–burnu, akıl–aklı
+   – Türemesi: biricik, azıcık
+   – Daralması: başla–başlıyor, söyle–söylüyor
+   – Değişmesi: bana, sana
+• Ünsüz olayları:
+   – Benzeşme: çorapçık, sokaktı
+   – Yumuşama: kitap–kitabı
+   – Türeme: affetmek, hissetmek
+   – Düşme: küçücük, ufacık
+   – Ulama: senin araban
+• Yardımcı ünlü: sırasız, kaplı
+• Yardımcı ünsüz: arabaya, suyu, Ali’yi
 
-### 🔵 BÜYÜK ÜNLÜ UYUMU (Kalın–İnce)
-• Kalın: a ı o u İnce: e i ö ü
-
-• İlk hece kalın → kalanlar kalın, ince → kalanlar ince.
-
-• **Uyuma uymayan 7 ek** (değişmez):
-  yor ki ken leyin -imtrak -gil -daş
-
-### 🟢 KÜÇÜK ÜNLÜ UYUMU (Düz–Yuvarlak)
-1. Düz (a e ı i) → sonrası yine düz
-2. Yuvarlak (o ö u ü) → sonrası:
-   - düz-geniş (a e) veya
-   - dar-yuvarlak (u ü)
-
-### 🎤 ÜNLÜ (VOKAL) SES OLAYLARI
-| Olay              | Açıklama & Örnekler                                      |
-|-------------------|----------------------------------------------------------|
-| Ünlü Düşmesi      | Son hece ünlüsü ekle düşer → burun–**burnu**, akıl–**aklı**, kahve altı–**kahvaltı** |
-| Ünlü Türemesi     | Yeni ünlü çıkar → bir–**biricik**, az–**azıcık**, sağlam–**sapasağlam** |
-| Ünlü Daralması    | a/e + yor → ı/i/ü/u → başla–**başlıyor**, söyle–**söylüyor** |
-| Ünlü Değişmesi    | ben–**bana**, sen–**sana**                               |
-
-### 🟣 ÜNSÜZ SES OLAYLARI
-| Olay                  | Kural & Örnekler                                          |
-|-----------------------|-----------------------------------------------------------|
-| Ünsüz Benzeşmesi      | Sert ünsüz + yumuşak ek → ek sertleşir → çorap–**çorapçık**, sokak–**sokaktı** |
-| Ünsüz Yumuşaması      | p ç t k + ünlü ek → b c d ğ/g → kitap–**kitabı**, renk–**rengi** |
-| Ünsüz Türemesi        | Yabancı köken + et/ol → ikiz ünsüz → af–**affetmek**, his–**hissetmek** |
-| Ünsüz Düşmesi         | -k + küçültme → k düşer → küçük–**küçücük**, ufak–**ufacık** |
-| Ulama                 | Ünsüz + ünlü → birleşik okuma → senin **araban**, güzel **insan** |
-
-### 🔵 YARDIMCI SESLER
-• Yardımcı ünlü: iki ünsüz arasına → sırasız, kaplı
-• Yardımcı ünsüz (y, n, s): iki ünlü arasına → arabaya, suyu, Ali’yi
+────────────────────────────────────────
+## 6. HAFTA – (5. haftanın tekrarı ve pekiştirmesi)
+────────────────────────────────────────
+• 5. hafta konuları tamamen tekrar edildi.
+• Ekstra örnekler ve yanlış bilinenler düzeltildi.
+• Sınavda çıkma ihtimali yüksek noktalar vurgulandı:
+   – 7 uymayan ek
+   – Ünlü daralması sadece -yor’da
+   – Ünsüz yumuşamasında “renk–rengi” gibi k → g olur
 
 ────────────────────────────────────────
 ## SINAV İÇİN SON TEKRAR CHECKLIST ✔
