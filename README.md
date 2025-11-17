@@ -5,20 +5,30 @@
 ────────────────────────────────────────
 
 • Dil nedir? → Ses temelli iletişim sistemi, ortak ses–anlam uzlaşması.
+
 • Dilin 8 temel özelliği (sestir, nedensizdir, ilkel/gelişmiş yoktur, üretken, kültür taşır…).
+
 • Anadili – Ata dil – Ağız – Lehçe – Ölçünlü dil farkları.
+
 • Dil aileleri → Türkçe: Ural-Altay → Altay kolu.
+
 • Yapı bakımından → **Eklemeli dil** (göz → gözlük → gözlükçü).
+
 • Kültür = Hars → Dil kültürün en güçlü taşıyıcısıdır.
+
 • Durumsal dil (arkadaş ↔ öğretmen hitapları).
+
 
 ────────────────────────────────────────
 ## 2. HAFTA – TÜRKÇENİN TARİHİ
 ────────────────────────────────────────
 
 • Türkçenin yaşı: **~8500 yıl** (dünyanın en eski dillerinden).
+
 • Yazılı izler: MÖ 6500’lere, Sümer tabletlerine kadar gider.
+
 • Tarihî dönemler: **7 devir**
+
   1. Altay Devri
   2. En Eski Türkçe
   3. İlk Türkçe
@@ -28,34 +38,45 @@
   7. Çağdaş Türkçe
 
 • İlk yazılı belge: **Çoğur Yazıtı** (MS 682–692)
+
 • Orhun Kitabeleri → En ünlü ama **ilk değil** (Çoğur’dan ~40 yıl sonra).
+
 
 ────────────────────────────────────────
 ## 3. HAFTA – TARİHÎ TÜRK YAZI DİLLERİ & ALFABELER
 ────────────────────────────────────────
 
 • Çağatay Türkçesi → Doğu Türkçesi, Ali Şir Nevâyî dönemi en parlak.
+
 • Batı Türkçesi:
+
    - Eski Anadolu Türkçesi (12–15. yy): Yunus Emre, Dede Korkut
    - Osmanlı Türkçesi (16–20. yy): Arapça–Farsça çok yoğun.
+
 • Kullanılan alfabeler: Göktürk, Uygur, Arap, Kiril, Latin.
+
 • Latin alfabesine geçiş: 1 Kasım **1928**, 29 harf.
+
 
 ────────────────────────────────────────
 ## 4. HAFTA – SES BİLGİSİ TEMELLERİ
 ────────────────────────────────────────
 
 • Türk alfabesi: **29 harf**, sesçil (okunduğu gibi yazılır).
+
 • Ünlüler (8): A E I İ O Ö U Ü
+
 • Ünlü sınıflandırması:
    - Art–Ön: A I O U | E İ Ö Ü
    - Geniş–Dar: A E O Ö | I İ U Ü
    - Düz–Yuvarlak: A E I İ | O Ö U Ü
 
 • Ünsüz sınıflandırması:
+
    - Oluşum yeri (dudak, diş, damak…)
    - Tonlu/Tonsuz → Tonsuzlar: **Fıstıkçı Şahap** (F Ş S T K P Ç H)
    - Süreksiz/Sürekli
+
 
 ────────────────────────────────────────
 ## 5. HAFTA – SES OLAYLARI VE ÜNLÜ UYUMLARI
