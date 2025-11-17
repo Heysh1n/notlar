@@ -84,6 +84,7 @@
 ────────────────────────────────────────
 
 • Büyük Ünlü Uyumu → kalın–ince (a ı o u | e i ö ü)
+
   – Uymayan 7 ek: yor, ki, ken, leyin, -imtrak, -gil, -daş
 
 • Küçük Ünlü Uyumu → düz–yuvarlak
