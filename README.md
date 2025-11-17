@@ -60,23 +60,30 @@
 ────────────────────────────────────────
 ## 5. HAFTA – SES OLAYLARI VE ÜNLÜ UYUMLARI
 ────────────────────────────────────────
+
 • Büyük Ünlü Uyumu → kalın–ince (a ı o u | e i ö ü)
   – Uymayan 7 ek: yor, ki, ken, leyin, -imtrak, -gil, -daş
+
 • Küçük Ünlü Uyumu → düz–yuvarlak
    – Düz → düz
    – Yuvarlak → a/e veya u/ü
+   
 • Ünlü olayları:
    – Düşmesi: burun–burnu, akıl–aklı
    – Türemesi: biricik, azıcık
    – Daralması: başla–başlıyor, söyle–söylüyor
    – Değişmesi: bana, sana
+   
 • Ünsüz olayları:
    – Benzeşme: çorapçık, sokaktı
    – Yumuşama: kitap–kitabı
    – Türeme: affetmek, hissetmek
    – Düşme: küçücük, ufacık
    – Ulama: senin araban
+
+   
 • Yardımcı ünlü: sırasız, kaplı
+
 • Yardımcı ünsüz: arabaya, suyu, Ali’yi
 
 ────────────────────────────────────────
