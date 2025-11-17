@@ -123,7 +123,9 @@
 • Sınavda çıkma ihtimali yüksek noktalar vurgulandı:
    
    – 7 uymayan ek
+   
    – Ünlü daralması sadece -yor’da
+   
    – Ünsüz yumuşamasında “renk–rengi” gibi k → g olur
    
 
