@@ -1,262 +1,445 @@
-# 📘 TÜRKÇE DERSİ – GENEL VİZE NOTLARI (1–6. HAFTA TAMAMI!)
+# 📘 **Bilgisayar Bilimlerine Giriş — Kapsamlı Açıklamalı Özet**
 
-────────────────────────────────────────
-## 1. HAFTA – DİL VE KÜLTÜR TEMELLERİ
-────────────────────────────────────────
-
-• Dil nedir? → Ses temelli iletişim sistemi, ortak ses–anlam uzlaşması.
-
-• Dilin 8 temel özelliği (sestir, nedensizdir, ilkel/gelişmiş yoktur, üretken, kültür taşır…).
-
-• Anadili – Ata dil – Ağız – Lehçe – Ölçünlü dil farkları.
-
-• Dil aileleri → Türkçe: Ural-Altay → Altay kolu.
-
-• Yapı bakımından → **Eklemeli dil** (göz → gözlük → gözlükçü).
-
-• Kültür = Hars → Dil kültürün en güçlü taşıyıcısıdır.
-
-• Durumsal dil (arkadaş ↔ öğretmen hitapları).
-
-
-────────────────────────────────────────
-## 2. HAFTA – TÜRKÇENİN TARİHİ
-────────────────────────────────────────
-
-• Türkçenin yaşı: **~8500 yıl** (dünyanın en eski dillerinden).
-
-• Yazılı izler: MÖ 6500’lere, Sümer tabletlerine kadar gider.
-
-• Tarihî dönemler: **7 devir**
-
-  1. Altay Devri
-  2. En Eski Türkçe
-  3. İlk Türkçe
-  4. Eski Türkçe
-  5. Orta Türkçe
-  6. Yeni Türkçe
-  7. Çağdaş Türkçe
-
-• İlk yazılı belge: **Çoğur Yazıtı** (MS 682–692)
-
-• Orhun Kitabeleri → En ünlü ama **ilk değil** (Çoğur’dan ~40 yıl sonra).
-
-
-────────────────────────────────────────
-## 3. HAFTA – TARİHÎ TÜRK YAZI DİLLERİ & ALFABELER
-────────────────────────────────────────
-
-• Çağatay Türkçesi → Doğu Türkçesi, Ali Şir Nevâyî dönemi en parlak.
-
-• Batı Türkçesi:
-
-   - Eski Anadolu Türkçesi (12–15. yy): Yunus Emre, Dede Korkut
-   - Osmanlı Türkçesi (16–20. yy): Arapça–Farsça çok yoğun.
-
-• Kullanılan alfabeler: Göktürk, Uygur, Arap, Kiril, Latin.
-
-• Latin alfabesine geçiş: 1 Kasım **1928**, 29 harf.
-
-
-────────────────────────────────────────
-## 4. HAFTA – SES BİLGİSİ TEMELLERİ
-────────────────────────────────────────
-
-• Türk alfabesi: **29 harf**, sesçil (okunduğu gibi yazılır).
-
-• Ünlüler (8): A E I İ O Ö U Ü
-
-• Ünlü sınıflandırması:
-
-   - Art–Ön: A I O U | E İ Ö Ü
-   - Geniş–Dar: A E O Ö | I İ U Ü
-   - Düz–Yuvarlak: A E I İ | O Ö U Ü
-
-• Ünsüz sınıflandırması:
-
-   - Oluşum yeri (dudak, diş, damak…)
-   - Tonlu/Tonsuz → Tonsuzlar: **Fıstıkçı Şahap** (F Ş S T K P Ç H)
-   - Süreksiz/Sürekli
-
-
-────────────────────────────────────────
-## 5. HAFTA – SES OLAYLARI VE ÜNLÜ UYUMLARI
-────────────────────────────────────────
-
-• Büyük Ünlü Uyumu → kalın–ince (a ı o u | e i ö ü)
-
-  – Uymayan 7 ek: yor, ki, ken, leyin, -imtrak, -gil, -daş
-
-• Küçük Ünlü Uyumu → düz–yuvarlak
-
-   – Düz → düz
-   – Yuvarlak → a/e veya u/ü
-   
-• Ünlü olayları:
-
-   – Düşmesi: burun–burnu, akıl–aklı
-   – Türemesi: biricik, azıcık
-   – Daralması: başla–başlıyor, söyle–söylüyor
-   – Değişmesi: bana, sana
-   
-• Ünsüz olayları:
-
-   – Benzeşme: çorapçık, sokaktı
-   – Yumuşama: kitap–kitabı
-   – Türeme: affetmek, hissetmek
-   – Düşme: küçücük, ufacık
-   – Ulama: senin araban
-
-   
-• Yardımcı ünlü: sırasız, kaplı
-
-• Yardımcı ünsüz: arabaya, suyu, Ali’yi
-
-────────────────────────────────────────
-## 6. HAFTA – (5. haftanın tekrarı ve pekiştirmesi)
-────────────────────────────────────────
-
-• 5. hafta konuları tamamen tekrar edildi.
-
-• Ekstra örnekler ve yanlış bilinenler düzeltildi.
-
-• Sınavda çıkma ihtimali yüksek noktalar vurgulandı:
-   
-   – 7 uymayan ek
-   
-   – Ünlü daralması sadece -yor’da
-   
-   – Ünsüz yumuşamasında “renk–rengi” gibi k → g olur
-   
-
-────────────────────────────────────────
-## SINAV İÇİN SON TEKRAR CHECKLIST ✔
-────────────────────────────────────────
-- [ ] Dil özellikleri & dil–kültür ilişkisi
-- [ ] Türkçe’nin yeri: Ural-Altay → Altay kolu → Eklemeli dil
-- [ ] Türkçenin yaşı ~8500 yıl → 7 tarihî devir → İlk belge: Çoğur Yazıtı
-- [ ] Çağatay (Nevâyî) – Eski Anadolu Türkçesi (Yunus, Dede Korkut)
-- [ ] Latin alfabesi 1928
-- [ ] Ünlü sınıflandırması (art–ön, geniş–dar, düz–yuvarlak)
-- [ ] Tonsuz ünsüzler: Fıstıkçı Şahap
-- [ ] Büyük & Küçük Ünlü Uyumu + **7 uymayan ek**
-- [ ] Tüm ses olayları (4 ünlü + 5 ünsüz + yardımcı sesler + ulama)
-
-
-.
-.
-.
-
-
-# 📘 *TÜRKÇE DERSİ – MİNİK COPİYA LISTESI(VİZE)*
-
-1–6. haftanın en kısa özeti
-
-───────────────────────────────────────
-
-## *1) DİL VE KÜLTÜR*
-
-* Dil = Ses + anlamdan oluşan iletişim sistemi.
-* Dilin özellikleri: seslidir, nedensizdir, değişkendir, üretkendir, kültür taşır, bütün diller eşittir.
-* Anadil ≠ lehçe ≠ ağız ≠ standart/ölçünlü dil.
-* Türkçe: Ural–Altay → Altay kolu → *eklemeli dil* (göz–gözlük–gözlükçü).
+Bu özet, tüm bölümlerdeki bilgileri tek bir akıcı anlatıda birleştirir.
+Her kavramın yanında **neden önemli olduğu**, **nerede kullanıldığı** ve **bilgisayar bilimindeki yeri** detaylı olarak açıklanır.
 
 ---
 
-## *2) TÜRKÇENİN TARİHİ*
+# #️⃣ **Bölüm 0 — Giriş: Bilgisayar Bilimleri Neyi İnceler?**
 
-*7 dönem:*
+Bilgisayar bilimi, sadece bilgisayar kullanmayı değil, **problemleri sistematik bir şekilde çözmeyi** öğretir. Bu bölümde amaç, temel kavramların ne olduğunu zihinde netleştirmektir.
 
-1. Altay Devri
-2. En Eski Türkçe
-3. İlk Türkçe
-4. Eski Türkçe
-5. Orta Türkçe
-6. Yeni Türkçe
-7. Çağdaş Türkçe
+## 🔹 Algoritmalar
 
-* Yaş: ~8500 yıl.
-* İlk belge: *Çoğur Yazıtı (682–692)*
-* Orhun Yazıtları → ünlüdür ama ilk değildir.
+Algoritma, belirli bir problemi çözmek için adım adım tanımlanmış işlemler dizisidir.
+Bir yemek tarifi nasıl tam olarak ne yapacağımızı söylüyorsa, algoritmalar da programların ne yapacağını belirler.
 
----
+## 🔹 Programlar
 
-## *3) TARİHÎ TÜRK YAZI DİLLERİ & ALFABELER*
+Program = algoritmanın bilgisayar tarafından anlaşılabilir hâle getirilmiş biçimi.
+Bir algoritma yazılmadan program olmaz; program olmadan da bilgisayar “akıllı” davranamaz.
 
-* Çağatay Türkçesi (Ali Şir Nevai) → Doğu Türkçesi.
-* Batı Türkçesi:
-  • Eski Anadolu Türkçesi (Yunus Emre, Dede Korkut)
-  • Osmanlı Türkçesi (Arapça–Farsça yoğun)
-* Alfabeler: Göktürk, Uygur, Arap, Kiril, Latin.
-* Latin alfabesi → *1 Kasım 1928*, 29 harf.
+## 🔹 Tarihsel Gelişim
 
----
+Abaküsten başlayan hesaplama tarihi, mekanik makineler, ENIAC gibi ilk bilgisayarlar ve sonunda kişisel bilgisayarlara kadar uzanır.
+Bu tarihsel yolculuk, bugün kullandığımız cihazların nasıl evrildiğini ve neden böyle olduklarını anlamaya yardımcı olur.
 
-## *4) SES BİLGİSİ TEMELLERİ*
+## 🔹 Bilgisayar Biliminin Ana Alanları
 
-### *Ünlüler (8):* A E I İ O Ö U Ü
+Bu alanlar, bilgisayar bilimindeki bütün konuların temelini oluşturur:
 
-### Sınıflandırma:
+* Algoritmalar
+* Veri ve veri yapıları
+* Abstraksiyon (karmaşık sistemleri basitleştirme)
+* Programlama
+* İnternet
+* Etik
 
-* Art: A I O U
-* Ön: E İ Ö Ü
-* Geniş: A E O Ö
-* Dar: I İ U Ü
-* Düz: A E I İ
-* Yuvarlak: O Ö U Ü
-
-### Tonsuz ünsüzler:
-
-*Fıstıkçı Şahap* → F, S, T, K, Ç, Ş, H, P
+Her bölüm ileride yapacağın çalışmalarda tekrar tekrar karşına çıkacak.
 
 ---
 
-## *5) ÜNLÜ UYUMLARI & SES OLAYLARI*
+# #️⃣ **Bölüm 1 — Veri Depolama: Bilgisayar Bilgiyi Nasıl Temsil Eder?**
 
-### *Büyük Ünlü Uyumu*
+Bilgisayarlar dünyayı bizim gibi görmez; onlar için her şey **0 ve 1**’dir. Bu bölüm, gerçek dünyanın bilgisayar tarafından nasıl temsil edildiğini açıklar.
 
-Kalın–ince uyumu.
-❗ Uymayan 7 ek →
-*yor, ki, ken, leyin, -gil, -daş, -imtrak*
+## 🔹 Bit ve Bayt
 
-### *Küçük Ünlü Uyumu*
+* **Bit** → bilgisayarın saklayabildiği en küçük bilgi birimi
+* **Bayt** → 8 bit’lik grup
+  Bellek, milyonlarca bayttan oluşur ve her baytın benzersiz bir **adresi** vardır. Bu adres sayesinde bilgisayar veriyi bulur.
 
-Yuvarlak → ya a/e ya da u/ü
-Düz → düz
+## 🔹 Bilginin Temsili
+
+Bilgisayarın her tür bilgiyi saklaması için o bilginin **sayıya çevrilebilmesi** gerekir.
+
+* Sayılar → doğrudan binary ile
+* Metin → ASCII ve Unicode tabloları ile
+* Görseller → piksel ve RGB değerleri ile
+* Ses → dalgaların dijital örneklenmesiyle
+* Video → ardışık görüntü kareleri ve ses birleşimi
+
+Bu prensipleri bilmek, dosyaların neden farklı boyutlarda olduğunu anlamanı sağlar.
+
+## 🔹 İkili Sistem (Binary)
+
+Bilgisayarın kullandığı temel matematik sistemi.
+Bu bölümde:
+
+* 10’luk → 2’lik dönüşümler
+* 2’lik sayıların toplanması
+  gibi işlemleri öğrenerek bilgisayar mantığına bir adım daha yaklaşırsın.
+
+## 🔹 Sayıların Bilgisayarda Temsili
+
+* **Two’s complement** → negatif sayıların binary’de gösterimi
+* **Floating point** → ondalıklı sayıların bilimsel gösterimi
+  Bu yöntemler sayesinde bilgisayar hem tam hem ondalıklı sayılarla çalışabilir (ama bazen yuvarlama hataları oluşur).
+
+## 🔹 Sıkıştırma ve Hata Kontrolü
+
+Bilgiyi daha az yer kaplayacak şekilde kaydetmek için:
+
+* JPEG → görüntü sıkıştırma
+* MP3 → ses sıkıştırma
+* Huffman → en sık kullanılan sembollere kısa kod verme
+  Ayrıca iletim hatalarını bulmak için **parity bitleri** kullanılır.
 
 ---
 
-## *6) ÜNLÜ OLAYLARI*
+# #️⃣ **Bölüm 2 — Veri İşleme: Bilgisayar Nasıl Çalışır?**
 
-* Ünlü düşmesi: burun–burnu
-* Ünlü türemesi: biricik
-* Ünlü daralması: *sadece -yor* (söyle–söylüyor)
-* Ünlü değişmesi: bana–sana
+Bu bölüm, işlemcinin iç dünyasını anlamayı sağlar: bilgisayarın beyninde neler oluyor?
+
+## 🔹 CPU ve Mimarisi
+
+* **ALU** → Aritmetik işlemleri yapar (toplama, karşılaştırma vb.)
+* **Kontrol birimi** → Komutların sırasını yönetir
+* **Register’lar** → CPU içindeki küçük ve çok hızlı hafızalar
+* **Bus** → bileşenlerin iletişim hattı
+
+Bu parçaların birlikte çalışması, bilgisayarın tüm işlevlerinin temelidir.
+
+## 🔹 Makine Kodu
+
+Bilgisayar sadece makine kodunu (ikili komutları) anlar:
+
+* LOAD
+* STORE
+* ADD
+* JUMP
+
+Komutlar genellikle **opcode + operand** şeklindedir.
+RISC ve CISC mimarileri komutların karmaşıklığını belirler.
+
+## 🔹 Komut Döngüsü
+
+İşlemci her komutu şu sırayla işler:
+
+1. **Fetch** → Komutu bellekten al
+2. **Decode** → Komutun ne olduğunu çöz
+3. **Execute** → Komutu çalıştır
+
+Modern CPU’lar bu işlemleri pipeline gibi optimizasyonlarla hızlandırır.
+
+## 🔹 Bit İşlemleri
+
+AND, OR, XOR gibi işlemler birçok algoritmanın temelini oluşturur.
+Kaydırma işlemleri özellikle şifreleme, grafik ve düşük seviye programlamada önemlidir.
+
+## 🔹 Cihazlarla İletişim
+
+Veri giriş çıkışı:
+
+* Portlar
+* DMA
+* Seri ve paralel iletişim
+
+Bunlar bilgisayarın dış dünya ile nasıl konuştuğunu açıklar.
+
+## 🔹 Python ile Temel Programlama
+
+Bu bölümde işlemcide olanları daha “insanca” anlatan yüksek seviyeli bir dil ile tanışırsın:
+
+* Değişkenler
+* Koşullar
+* Döngüler
+* Fonksiyonlar
+
+## 🔹 Modern Mimariler
+
+* Paralel işlem
+* SIMD / MIMD sistemleri
+* Komut boruhattı (pipeline)
+
+Günümüzdeki işlemcilerin neden çok güçlü olduğunu anlamanı sağlar.
 
 ---
 
-## *7) ÜNSÜZ OLAYLARI*
+# #️⃣ **Bölüm 3 — İşletim Sistemleri: Bilgisayarın Görünmez Yöneticisi**
 
-* Benzeşme: sokaktı
-* Yumuşama: kitap–kitabı (k→g, p→b, t→d, ç→c)
-* Ünsüz türemesi: affetmek, hissetmek
-* Ünsüz düşmesi: küçücük
-* Ulama: senin araban
+İşletim sistemi, bilgisayardaki her şeyi organize eden ana yazılımdır.
+
+## 🔹 OS’in Görevleri
+
+* Dosyaları yönetir
+* Belleği düzenler
+* Programların çalışmasını yönetir
+* Donanımlarla iletişimi sağlar
+
+Bilgisayar bu yönetim olmadan tamamen işlevsiz kalırdı.
+
+## 🔹 Çalışma Modları
+
+Örneğin:
+
+* Gerçek zamanlı sistemler → fabrikalar, uçak kontrolü
+* Çoklu görev → aynı anda birden fazla program
+* Çoklu kullanıcı → sunucu sistemleri
+
+Her mod farklı ihtiyaçlar için vardır.
+
+## 🔹 OS Mimarisi
+
+* **CLI/GUI** → kullanıcıyla iletişim kısmı
+* **Kernel** → sistemin çekirdeği
+* **Driver’lar** → donanımı çalıştıran kodlar
+
+Bu katmanlı yapı, sistemi hem güçlü hem güvenli kılar.
+
+## 🔹 Süreç Yönetimi
+
+Her çalışan program bir **process**’tir.
+OS bu süreçlere CPU zamanını adil bir şekilde dağıtır.
+
+## 🔹 Deadlock ve Senkronizasyon
+
+Çoklu işlem yapan sistemlerde:
+
+* deadlock → iki sürecin birbirini bekleyip sonsuza dek tıkanması
+* critical section → paylaşılan verinin korunması
+* semaforlar → düzenleyici mekanizma
+
+Bu konular yazılımın güvenli çalışması için kritiktir.
+
+## 🔹 Güvenlik
+
+OS hem iç hem dış tehditlere karşı koruma sağlar:
+
+* malware
+* yetkisiz erişimler
+* şifreleme
 
 ---
 
-## *8) YARDIMCI SESLER*
+# #️⃣ **Bölüm 4 — Ağ ve İnternet**
 
-* Yardımcı ünlü: kaplı, sırasız
-* Yardımcı ünsüz: y / n / ş → arabaya, suyu, Ali’yi
+Bu bölüm, bilgisayarların birbirine nasıl bağlandığını ve İnternet’in nasıl çalıştığını açıklar.
+
+## 🔹 Ağ Türleri
+
+* **PAN** → kişisel alan
+* **LAN** → yerel ağ (ev/okul)
+* **MAN** → şehir çapı
+* **WAN** → ülke/okyanus aşırı bağlantılar
+
+## 🔹 Protokoller
+
+Ethernet (CSMA/CD) ve Wi-Fi (CSMA/CA) verinin çarpışmadan iletilmesini sağlar.
+
+## 🔹 Ağ Cihazları
+
+* Repeater → sinyal güçlendirici
+* Switch → çerçeveleri hedef cihazlara yönlendirir
+* Bridge → ağ bölümlerini bağlar
+* Router → IP paketlerini başka ağlara yollar
+
+## 🔹 İnternet’in Çalışması
+
+* ISP katmanları
+* IP adresleri
+* DNS → alan adını IP’ye çevirir
+
+## 🔹 Temel Protokoller
+
+* HTTP, SMTP, FTP, SSH
+* E-posta: POP3 / IMAP
+
+## 🔹 WWW ve Web Teknolojileri
+
+* URL
+* HTML / XML
+* İstemci–sunucu modeli
+* P2P sistemler
+
+## 🔹 TCP/IP Modeli
+
+TCP → güvenli, sıralı iletim
+UDP → hızlı, ama garanti yok
+
+## 🔹 Güvenlik
+
+* HTTPS
+* DoS saldırıları
+* Anahtar tabanlı şifreleme
 
 ---
 
-# ✔ *VİZEDE KESİN ÇIKACAK NOKTALAR*
+# #️⃣ **Bölüm 5 — Algoritmalar: Problemleri Sistematik Çözmek**
 
-1. 7 tane uyumsuz ek
-2. Ünsüz yumuşaması (k→g vb.)
-3. Daralma yalnızca -yor’da
-4. Ünlü sınıflandırması
-5. Fıstıkçı Şahap
-6. İlk Türk yazıtı: Çoğur
+Bu bölüm programlamanın temel mantığını öğretir.
+
+## 🔹 Algoritma Nedir?
+
+Kesin, sonlu ve mantıklı adımlardan oluşan çözüm tarifidir.
+
+## 🔹 Algoritmalar Nasıl Yazılır?
+
+* Primitif işlemler
+* Koşullar
+* Döngüler
+* Fonksiyonlar
+* Pseudocode
+
+## 🔹 Algoritma Tasarımı
+
+“Pólya Metodu”:
+
+1. Problemi anla
+2. Plan yap
+3. Uygula
+4. Kontrol et
+
+Bu, gerçek hayatta her problemde kullanılabilir.
+
+## 🔹 Temel Algoritmalar
+
+* Doğrusal arama
+* İkili arama
+* Ekleme sıralaması
+
+## 🔹 Özyineleme (Recursion)
+
+Bir problemin kendisinin daha küçük versiyonuyla çözülmesi.
+Hanoi Kuleleri bunun klasik örneğidir.
+
+## 🔹 Verimlilik (Big-Θ)
+
+Aynı işi yapan iki algoritma çok farklı hızlarda olabilir.
+Big-Θ notasyonu bunu matematiksel olarak anlatır.
+
+---
+
+# #️⃣ **Bölüm 6 — Programlama Dilleri**
+
+Bu bölüm, dillerin nasıl çalıştığını kavramanı sağlar.
+
+## 🔹 Dillerin Seviyeleri
+
+* Makine kodu
+* Assembly
+* Yüksek seviyeli diller (Python, C++, Java…)
+
+## 🔹 Çeviri Süreçleri
+
+* **Derleyici** (compiler) → yüksek seviyeli kodu makine koduna çevirir
+* **Yorumlayıcı** (interpreter) → kodu satır satır çalıştırır
+* **Parser** ve **AST** → kodun yapısal analizi
+
+## 🔹 Temel Kavramlar
+
+* Değişkenler
+* Türler
+* Kontrol yapıları
+* Fonksiyonlar
+
+## 🔹 Programlama Paradigmaları
+
+### **Prosedürel**
+
+Adım adım komutlarla ilerleyen yapı.
+
+### **Nesne Yönelimli Programlama (OOP)**
+
+* Sınıflar
+* Nesneler
+* Metodlar
+* Kalıtım
+* Kapsülleme
+* Polimorfizm
+
+Modern dillerin çoğu bu paradigmayı kullanır.
+
+---
+
+# #️⃣ **Bölüm 7 — Yazılım Mühendisliği**
+
+Bu bölüm, sadece kod yazmayı değil **büyük yazılım projelerinin nasıl geliştirildiğini** öğretir.
+
+## 🔹 Yazılım Geliştirme Yaşam Döngüsü (SDLC)
+
+1. Gereksinim analizi
+2. Tasarım
+3. Kodlama
+4. Test
+5. Bakım
+
+## 🔹 Geliştirme Metodolojileri
+
+* Waterfall
+* Agile
+* Prototipleme
+* İteratif geliştirme
+
+Agile günümüzde en yaygın kullanılan yaklaşımdır.
+
+## 🔹 Modelleme Araçları
+
+* UML diyagramları
+* ER diyagramları
+* Veri akış diyagramları
+
+Bu araçlar büyük sistemlerin planlanmasını kolaylaştırır.
+
+## 🔹 Kalite, Test ve Dokümantasyon
+
+Yazılımın güvenilir olması için testler ve iyi belgeler şarttır.
+
+---
+
+# #️⃣ **Bölüm 8 — Yapay Zekâ**
+
+Bu bölüm, günümüz dünyasını şekillendiren yapay zekânın temellerini açıklar.
+
+## 🔹 Akıllı Ajanlar
+
+Bir sistemin çevreyi algılayıp hedefe uygun davranış üretmesi.
+Tepki temelli, hedef temelli ve öğrenen sistemler gibi seviyeleri vardır.
+
+## 🔹 Turing Testi
+
+Bir makinenin “insan gibi düşündüğünü” test eden yöntem.
+
+## 🔹 Algılama
+
+* Görüntü işleme (edge detection)
+* Doğal dil işleme (NLP)
+
+## 🔹 Akıl Yürütme ve Arama
+
+* Durum ağaçlarında arama
+* Mantık sistemleri
+
+## 🔹 Öğrenme Yöntemleri
+
+* Supervised learning
+* Imitation learning
+
+## 🔹 Genetik Algoritmalar
+
+Doğal evrim süreçlerini taklit ederek çözüm arayan yöntemler.
+
+## 🔹 Yapay Sinir Ağları
+
+* Perceptron
+* Gizli katmanlar
+* Geri yayılım (backpropagation)
+
+## 🔹 Uygulamalar
+
+* Otonom araçlar
+* Görüntü tanıma
+* Robotik
+
+---
+
+# 🎉 **Sonuç**
+
+Bu tek dosyalık özet, tüm bölümlerdeki bilgileri **açıklamalı, bağlamlı ve akıcı bir dille** bir araya getirmiştir.
+Artık her kavramın:
+
+* ne olduğu,
+* neden önemli olduğu,
+* nerede kullanıldığı
+  net bir şekilde anlaşılır durumda.
+
